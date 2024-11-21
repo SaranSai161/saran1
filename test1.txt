@@ -1,1 +1,1 @@
-qwertyyiopp
+print(object= separator= end= file= flush=)
